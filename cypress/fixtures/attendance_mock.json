@@ -1,0 +1,14 @@
+{
+  "month": "March 2023",
+  "present_days": 22,
+  "absent_days": 1,
+  "late_count": 2,
+  "half_days": 0,
+  "total_working_days": 23,
+  "records": [
+    { "date": "2023-03-01", "status": "present", "clock_in": "09:02", "clock_out": "18:05" },
+    { "date": "2023-03-02", "status": "present", "clock_in": "09:15", "clock_out": "18:00" },
+    { "date": "2023-03-03", "status": "late", "clock_in": "09:45", "clock_out": "18:10" },
+    { "date": "2023-03-06", "status": "absent", "clock_in": null, "clock_out": null }
+  ]
+}

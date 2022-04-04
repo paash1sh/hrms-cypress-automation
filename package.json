@@ -1,0 +1,19 @@
+{
+  "name": "hrms-cypress-automation",
+  "version": "1.0.0",
+  "description": "Cypress automation suite for HRMS - leave, payroll, attendance modules",
+  "scripts": {
+    "test": "cypress run",
+    "test:headed": "cypress open",
+    "test:leave": "cypress run --spec 'cypress/integration/leave/**'",
+    "test:payroll": "cypress run --spec 'cypress/integration/payroll/**'",
+    "test:attendance": "cypress run --spec 'cypress/integration/attendance/**'"
+  },
+  "devDependencies": {
+    "cypress": "9.7.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "7.6.0"
+  }
+}
+# init

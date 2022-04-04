@@ -1,0 +1,20 @@
+{
+  "employee": {
+    "email": "employee@aayulogic.com",
+    "password": "Employee@123",
+    "name": "Test Employee",
+    "role": "employee"
+  },
+  "manager": {
+    "email": "manager@aayulogic.com",
+    "password": "Manager@123",
+    "name": "Test Manager",
+    "role": "manager"
+  },
+  "admin": {
+    "email": "admin@aayulogic.com",
+    "password": "Admin@123",
+    "name": "Test Admin",
+    "role": "admin"
+  }
+}
