@@ -24,3 +24,4 @@ Cypress.Commands.add("navigateTo", (module) => {
 Cypress.Commands.add("waitForLoader", () => {
   cy.get("[data-cy=loader]", { timeout: 10000 }).should("not.exist");
 });
+# login cmd
