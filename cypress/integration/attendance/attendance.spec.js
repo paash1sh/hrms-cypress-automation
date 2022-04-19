@@ -44,3 +44,4 @@ describe("Attendance Module", () => {
     cy.get("[data-cy=present-days]").should("contain.text", "22");
   });
 });
+# attendance tests
