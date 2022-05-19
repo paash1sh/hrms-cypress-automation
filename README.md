@@ -57,3 +57,4 @@ cypress/
 - Uses `cy.session()` for login caching across tests
 - API responses stubbed with `cy.intercept()` for isolated testing
 - Custom commands in `support/commands.js`
+# readme
